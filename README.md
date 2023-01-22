@@ -1,31 +1,14 @@
 
-> Open this page at [https://crisscrosss.github.io/you-are-what-you-eat-v1_1/](https://crisscrosss.github.io/you-are-what-you-eat-v1_1/)
 
-## Use as Extension
+## You are what you eat
 
-This repository can be added as an **extension** in MakeCode.
+A simple two button game for the BBC micro:bit
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/crisscrosss/you-are-what-you-eat-v1_1** and import
 
-## Edit this project ![Build status badge](https://github.com/crisscrosss/you-are-what-you-eat-v1_1/workflows/MakeCode/badge.svg)
+You are a dot on the screen. You need to eat the other dot to get a point. When you eat the dot, you become it.
 
-To edit this repository in MakeCode.
+Try and eat as many dots as possible within 40 seconds to get a high score.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/crisscrosss/you-are-what-you-eat-v1_1** and click import
 
-## Blocks preview
+B moves your dot to the right and A moves your dot down.
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/crisscrosss/you-are-what-you-eat-v1_1/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
