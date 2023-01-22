@@ -12,3 +12,7 @@ Try and eat as many dots as possible within 40 seconds to get a high score.
 
 B moves your dot to the right and A moves your dot down.
 
+
+(If you want to play this game on the V1 micro:bit, 
+you just need to set ``music.setBuiltInSpeakerEnabled(true)`` to false)
+
