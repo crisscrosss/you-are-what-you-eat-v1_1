@@ -101,7 +101,7 @@ input.onButtonPressed(Button.AB, () => {
                 input.onButtonPressed(Button.A, () => {
 
                     basic.clearScreen()
-                    basic.showString('MADE BY CRISSCROSS#7439')
+                    basic.showString('MADE BY CRISSCROSS#5701')
                     buttona();
                     startgame();
 
